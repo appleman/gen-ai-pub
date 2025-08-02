@@ -1,2 +1,2 @@
-# gen-ai-pub
-Public geni AI
+# gen-ai
+Gen AI Experimentations
